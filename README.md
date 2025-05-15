@@ -1,2 +1,3 @@
 # himanshuthakur.com
-My personal blog, built from scratch
+
+My personal blog, built from scratch.
